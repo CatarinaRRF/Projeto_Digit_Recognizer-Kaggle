@@ -1,0 +1,2 @@
+# Projeto_Digit_Recognizer-Kaggle
+O MNIST ("Modified National Institute of Standards and Technology") é o conjunto de dados de fato "hello world" da visão computacional. Desde seu lançamento em 1999, esse conjunto de dados clássico de imagens manuscritas serviu de base para algoritmos de classificação de benchmarking. À medida que surgem novas técnicas de aprendizado de máquina, o MNIST continua sendo um recurso confiável para pesquisadores e alunos.
